@@ -5,7 +5,7 @@
 
 ***
 
-Se recrea la siguiente página web, se utilizan elementos de diseño responsivo en desktop y mobile.
+Se recrea la siguiente página web, se utiliza bootstrap, responsive web design para desktop y mobile.
 
 ## Visualización desktop
 ![Página Aliexpress Desktop Reto](assets/images/labcar-desktop.png)
