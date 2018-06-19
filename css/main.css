@@ -174,7 +174,7 @@ button.btn-rates {
 /* Footer */
 
 div.iconos {
-    margin-left: 120px;
+    margin-left: 50px;
 }
 
 div.info-stores {
@@ -229,16 +229,6 @@ button.btn-send {
 
 
 /* Media Query */
-
-/* Large devices */
-@media (min-width: 992px) {
-
-}
-
-/* Small devices */
-@media (min-width: 576px) {
-
-}
 
 @media screen and (min-width:320px ) and (max-width:576px){
     div.rates-section {
