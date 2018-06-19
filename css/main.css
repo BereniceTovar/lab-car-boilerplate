@@ -235,6 +235,16 @@ button.btn-send {
         height: 120vh;
     }
     div.footer-section {
-        height: 100vh;
+        height: 90vh;
+    }
+
+    div.iconos {
+        margin-left: 80px;
+    }
+
+    img.iconos-stores {
+        position: relative;
+        right: -150px;
+        top: -120px;
     }
 }
