@@ -52,13 +52,12 @@ hr {
 
 hr.left-line {
     float: left;
-    top: 40px;
 }
 
 hr.rigth-line {
     float: right;
     top: -40px;
-    right: 90px;
+    right: 32%;
 }
 
 p.p-lines {
@@ -66,7 +65,6 @@ p.p-lines {
 }
 
 .reg-button {
-    margin-left: -75px;
     width: 120px;
     height: 35px;
 }
@@ -154,13 +152,13 @@ div.info-left {
 }
 
 input.form-rates {
-    width: 300px;
+    width: 240px;
 }
 
 div.info-map {
     right: 20px;
     padding: 20px;
-    
+    width: 100%; 
 }
 
 div.margin-map {
@@ -170,14 +168,22 @@ div.margin-map {
 }
 
 button.btn-rates {
-    margin-left: 100px;
+    margin-left: 80px;
 }
 
 /* Footer */
 
+div.iconos {
+    margin-left: 120px;
+}
+
+div.info-stores {
+    align-content: right;
+}
+
 div.footer-section {
     background-color: #2b2b2b;
-    height: 450px;
+    height: 90vh;
     color: white;
 }
 
@@ -194,45 +200,42 @@ ul li {
     list-style: none;
 }
 
-div.iconos {
-    position: relative;
-    top: 190px;
-    left: 30px;
-}
-
 img.iconos-stores {
     width: 125px;
-    position: relative;
-    top: 100px;
 }
 
 small {
     margin-left: 40px;
 }
 
+/* Modal Sign In*/
+
+img.user-image {
+    position: relative;
+    left: 40%;
+}
+
+.yellow-color {
+    color: #fab443;
+}
+
+p.small-letter {
+    font-size: 12px;
+}
+
+button.btn-send {
+    width: 100%;
+}
+
+
 /* Media Query */
 
 /* Large devices */
 @media (min-width: 992px) {
-    /*.hide-content {
-        display: none;
-    } 
 
-    .hide-cp {
-        display: block;
-    }*/
 }
 
 /* Small devices */
 @media (min-width: 576px) {
-    /*.hide-content {
-        display: block;
-    } 
-
-    .hide-cp {
-        display: none;
-    }*/
-
-
 
 }
