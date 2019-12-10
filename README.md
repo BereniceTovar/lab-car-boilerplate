@@ -7,7 +7,7 @@ Se recrea sitio web Lab Car.
 * HTML5
 * CSS3
 * Bootstrap
-* Responsive web design para desktop Y mobile.
+* Responsive web design para desktop y mobile
 
 ***
 
