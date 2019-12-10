@@ -31,7 +31,7 @@ header {
 .content-header{
     background-color: #fab443;
     width: 300px;
-    height: 300px;
+    height: 320px;
     float: right;
     margin-top: 90px;
     padding: 30px;
@@ -50,20 +50,6 @@ hr {
     position: relative;
 }
 
-hr.left-line {
-    float: left;
-}
-
-hr.rigth-line {
-    float: right;
-    top: -40px;
-    left: -120px;
-}
-
-p.p-lines {
-    margin-left: 110px;
-}
-
 .reg-button {
     width: 120px;
     height: 35px;
@@ -73,19 +59,30 @@ button.btn-cc {
     position: absolute;
 }
 
+div.cont-opc {
+    padding-top: 20px;
+}
+
 /*Info Section*/
 
 section.info-section {
     background-color: #fab443;
     width: 100%;
-    height: 500px;
+    height: auto;
     color: white;
+}
+
+div.cont-border {
+    padding-bottom: 30px;
 }
 
 div.cont-main-info {
     padding: 30px;
     border-left: none;
     position: left;
+    padding-bottom: 40px;
+    border: 1px solid #ffffff;
+    padding-bottom: 30px;
 }
 
 div.text-part {
@@ -247,4 +244,11 @@ button.btn-send {
         right: -150px;
         top: -120px;
     }
+    section.info-section {
+        height: min-content;
+    }
+    p.phr {
+        padding-bottom: 20px;
+    }
 }
+
