@@ -1,11 +1,15 @@
 # LAB CAR
 
-* **Curso:** _Crea tu propia red social_
-* **Unidad:** _No reinventes la rueda_
+Se recrea sitio web Lab Car.
+
+**Tecnologías**
+
+* HTML5
+* CSS3
+* Bootstrap
+* Responsive web design para desktop Y mobile.
 
 ***
-
-Se recrea la siguiente página web, se utiliza bootstrap, responsive web design para desktop y mobile.
 
 ## Visualización desktop
 ![Página Aliexpress Desktop Reto](assets/images/labcar-desktop.png)
